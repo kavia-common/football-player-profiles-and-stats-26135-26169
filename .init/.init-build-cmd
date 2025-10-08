@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/football-player-profiles-and-stats-26135-26169/football_players_web_frontend"
+}
